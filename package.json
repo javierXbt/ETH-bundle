@@ -1,0 +1,15 @@
+{
+  "name": "evm-bundler",
+  "version": "1.0.0",
+  "description": "An Ethereum bundler build using evmgg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "evm",
+    "bundler"
+  ],
+  "author": "onweb3",
+  "license": "MIT"
+}
