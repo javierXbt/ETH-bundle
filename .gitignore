@@ -1,4 +1,4 @@
-node_modules
+node_modules/
 evmgg.config.json
 yarn.lock
 package-lock.json
