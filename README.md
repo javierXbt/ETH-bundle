@@ -1,11 +1,9 @@
-```markdown
 # ETH-Bundler
 
 ## Installation Guide
-
 ### Step 1: Clone the Repository
 To clone the repository, run the following command:
-
+```markdown
 ```bash
 git clone https://github.com/javierXbt/ETH-bundle
 ```
